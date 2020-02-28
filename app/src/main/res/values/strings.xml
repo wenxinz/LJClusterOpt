@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LJClusterOpt</string>
+    <string name="show_energy">Energy:</string>
+    <string name="show_numSteps">NumOfSteps:</string>
+    <string name="action">action</string>
+    <string name="setting">setting</string>
+    <string-array name="simulationType">
+        <item>SteepestDescent</item>
+        <item>MonteCarlo</item>
+        <item>MolecularDynamic</item>
+        <item>ModifiedSD</item>
+    </string-array>
+    <string name="clustersize_min">2</string>
+    <string name="clustersize_max">28</string>
+</resources>
